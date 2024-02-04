@@ -29,3 +29,30 @@ https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/functionP
     3.  [Stacks](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/stack.c)
     4.  [Queues](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/queue.c)
     5.  [Graphs](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/graph.c)
+13. Advanced
+    1.  [Multithreading](https://github.com/AryanChand753/Learning-C/tree/main/src/advanced/multithreading.c)
+    2.  Error Handling
+    3.  Destructors and Contstructors
+    4.  C Libraries and API Design
+    5.  Unit Testing and Debugging
+14. Embedded Systems Specialization
+    1.  Memory Management
+    2.  Pointers and Memory Access
+    3.  Bitwise Operations
+    4.  Interrupt Handling
+    5.  Concurrency and Multithreading
+    6.  Low-Level I/O
+    7.  Standard Libs
+    8.  Peripheral Communication
+    9.  RTOS
+    10. HAL
+    11. Power Management
+    12. Debugging Techniques
+    13. Flash Memory Handling
+    14. Safety and Reliability
+    15. Cross-Compilation
+    16. System Architecture
+    17. Signal Processing
+    18. Security
+    19. RTOS Awareness
+    20. Documentation
