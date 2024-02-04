@@ -1,6 +1,9 @@
 # Learning-C
 A journey of me learning C
 
+<!-- a
+https://github.com/AryanChand753/Learning-C/tree/main/src/arrays.c
+a -->
 
 ### Table of Contents
 1. [Hello World](https://github.com/AryanChand753/Learning-C/tree/main/src/helloWorld.c)
@@ -13,3 +16,5 @@ A journey of me learning C
 8. [Structures](https://github.com/AryanChand753/Learning-C/tree/main/src/structures.c)
 9. [Dynamic Memory Allocation](https://github.com/AryanChand753/Learning-C/tree/main/src/dynamicMemoryAllocation.c)
 10. [File Handling](https://github.com/AryanChand753/Learning-C/tree/main/src/fileHandling.c)
+11. Intermediate
+    1.  [Function Pointers](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/functionPointers.c)
