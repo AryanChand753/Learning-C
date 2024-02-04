@@ -8,3 +8,4 @@ A journey of me learning C
 3. [User Input](https://github.com/AryanChand753/Learning-C/tree/main/src/userInput.c)
 4. [Control Flow](https://github.com/AryanChand753/Learning-C/tree/main/src/controlFlow.c)
 5. [Functions](https://github.com/AryanChand753/Learning-C/tree/main/src/functions.c)
+6. [Arrays](https://github.com/AryanChand753/Learning-C/tree/main/src/arrays.c)
