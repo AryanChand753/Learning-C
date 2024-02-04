@@ -1,9 +1,9 @@
 # Learning-C
 A journey of me learning C
 
-<!-- a
-https://github.com/AryanChand753/Learning-C/tree/main/src/arrays.c
-a -->
+<!-- 
+https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/functionPointers.c
+ -->
 
 ### Table of Contents
 1. [Hello World](https://github.com/AryanChand753/Learning-C/tree/main/src/helloWorld.c)
@@ -18,3 +18,4 @@ a -->
 10. [File Handling](https://github.com/AryanChand753/Learning-C/tree/main/src/fileHandling.c)
 11. Intermediate
     1.  [Function Pointers](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/functionPointers.c)
+    2.  [Enumerations](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/enumerations.c)
