@@ -10,3 +10,4 @@ A journey of me learning C
 5. [Functions](https://github.com/AryanChand753/Learning-C/tree/main/src/functions.c)
 6. [Arrays](https://github.com/AryanChand753/Learning-C/tree/main/src/arrays.c)
 7. [Pointers](https://github.com/AryanChand753/Learning-C/tree/main/src/pointers.c)
+8. [Structures](https://github.com/AryanChand753/Learning-C/tree/main/src/structures.c)
