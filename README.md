@@ -23,3 +23,6 @@ https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/functionP
     4.  [Bitwise Operations](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/bitwiseOperations.c)
     5.  [Preprocessor Directives](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/preprocessorDirectives.c)
     6.  [Intermediate Memory Management](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/memoryManagement.c)
+12. Advanced Data Structures
+    1.  [Linked Lists](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/linkedLists.c)
+    2.  [Binary Tree](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/binaryTree.c)
