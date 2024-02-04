@@ -22,3 +22,4 @@ https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/functionP
     3.  [Unions](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/unions.c)
     4.  [Bitwise Operations](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/bitwiseOperations.c)
     5.  [Preprocessor Directives](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/preprocessorDirectives.c)
+    6.  [Intermediate Memory Management](https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/memoryManagement.c)
