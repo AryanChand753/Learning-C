@@ -26,3 +26,6 @@ https://github.com/AryanChand753/Learning-C/tree/main/src/intermediate/functionP
 12. Advanced Data Structures
     1.  [Linked Lists](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/linkedLists.c)
     2.  [Binary Tree](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/binaryTree.c)
+    3.  [Stacks](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/stack.c)
+    4.  [Queues](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/queue.c)
+    5.  [Graphs](https://github.com/AryanChand753/Learning-C/tree/main/src/advancedDataStructures/graph.c)
