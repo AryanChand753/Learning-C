@@ -12,3 +12,4 @@ A journey of me learning C
 7. [Pointers](https://github.com/AryanChand753/Learning-C/tree/main/src/pointers.c)
 8. [Structures](https://github.com/AryanChand753/Learning-C/tree/main/src/structures.c)
 9. [Dynamic Memory Allocation](https://github.com/AryanChand753/Learning-C/tree/main/src/dynamicMemoryAllocation.c)
+10. [File Handling](https://github.com/AryanChand753/Learning-C/tree/main/src/fileHandling.c)
