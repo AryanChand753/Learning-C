@@ -1,2 +1,8 @@
 # Learning-C
 A journey of me learning C
+
+
+### Table of Contents
+1. [Hello World](https://github.com/AryanChand753/Learning-C/tree/main/src/helloWorld.c)
+2. [Variables and Data Types](https://github.com/AryanChand753/Learning-C/tree/main/src/dataTypes.c)
+3. [User Input](https://github.com/AryanChand753/Learning-C/tree/main/src/userInput.c)
